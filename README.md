@@ -5,7 +5,8 @@ A fund that raises money for a fund with raffle tickets
 # lean
 
 
-* Distribtion for rolling ticket adds complexity
+* Token distribtion for rolling ticket, but adds complexity
+* L2 would make this much more gas savy, but adds complexity and limits user to the L2 chosen?
 
 
 # tokennomics idea
